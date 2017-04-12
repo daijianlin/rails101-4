@@ -1,5 +1,5 @@
 # config valid only for current version of Capistrano
-lock '3.8.0'
+lock '3.6.1'
 
 set :application, 'rails104'
 set :repo_url, 'git@github.com:daijianlin/rails101-4.git'
